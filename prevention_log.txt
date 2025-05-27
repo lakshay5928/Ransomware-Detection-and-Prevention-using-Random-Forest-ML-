@@ -1,0 +1,38 @@
+[2025-05-24 15:51:31] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_0.locky
+
+[2025-05-24 15:51:31] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_1.locky
+
+[2025-05-24 15:51:32] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_2.locky
+
+[2025-05-24 15:51:33] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\g.txt.locked
+
+[2025-05-24 15:51:34] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\j.txt.locked
+
+[2025-05-24 15:55:43] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_0.locky
+
+[2025-05-24 15:55:44] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_1.locky
+
+[2025-05-24 15:55:44] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_2.locky
+
+[2025-05-24 15:55:46] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\g.txt.locked
+
+[2025-05-24 15:55:46] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\k.txt.locked
+
+[2025-05-24 16:01:49] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_0.locky
+
+[2025-05-24 16:01:49] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_1.locky
+
+[2025-05-24 16:01:50] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_2.locky
+
+[2025-05-24 16:01:51] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\g.txt.locked
+
+[2025-05-24 16:03:15] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_0.locky
+
+[2025-05-24 16:03:15] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_1.locky
+
+[2025-05-24 16:03:16] Detected ransomware file (created): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\encrypted_file_2.locky
+
+[2025-05-24 16:03:17] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\f.txt.locked
+
+[2025-05-24 16:03:18] Detected ransomware file (modified): C:\Users\yasha\OneDrive\Desktop\ransomware_detector\monitor\test_folder\h.txt.locked
+
